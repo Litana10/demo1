@@ -1,0 +1,30 @@
+.part1{
+    border: 2px solid grey;
+    text-align: justify;
+    mid-height: 400px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 150px 10px 20px 30px;
+    margin-top: 150px;
+    font-size: 25px;
+}
+.part1 >h1{
+    text-align-all: center;
+    font-size: 28px;
+    text-align: center;
+}
+
+.unit{
+    border: 2px solid dimgray;
+    height: 25px;
+    width: 150px;
+    box-sizing: content-box;
+    text-align: center;
+    padding: 5px 20px 50px 40px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}

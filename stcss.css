@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+            color: blueviolet;
+    border: 1px solid red;
+    background: blue;
+
+}
+h2{
+    background: bisque;
+    text-align: center;
+    width: 500px;
+}
+p{
+    color: darkred;
+}
+.Family{
+    color: blue;
+}
+.Fam{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+li{
+    text-align: center;
+    border:1px solid red;
+}
+img{
+    width: 200px;
+}
