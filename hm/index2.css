@@ -1,0 +1,51 @@
+.body {
+    margin: 0;
+}
+.wrap{
+    margin: 200px 400px 200px 400px;
+}
+.top{
+    width:500px ;
+    height: 50px;
+    background: orange;
+    position: relative;
+}
+.square1{
+    width: 75px;
+    height: 25px;
+    background: cadetblue;
+    position: absolute;
+    bottom: 10px;
+    margin-left: 50px;
+}
+.middle{
+    width: 500px;
+    height: 200px;
+    background: lemonchiffon;
+    position: relative;
+
+}
+.footer{
+    width: 500px;
+    height: 100px;
+    background: yellow;
+}
+.dottes{
+    width: 500px;
+   height:80px ;
+
+    position: absolute;
+    bottom: -60px;
+    display: flex;
+    justify-content: space-evenly;
+   }
+.square{
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+
+
+
+}
