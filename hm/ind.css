@@ -1,0 +1,40 @@
+
+.block1{
+    height: 500px;
+    width: 800px;
+    border: 2px solid black;
+    margin-left: 80px 10px 10px 20px;
+    display: flex;
+    justify-content:  space-evenly;
+    flex-direction: row;
+}
+.square{
+    border: 2px dotted darkslategrey;
+    width: 200px;
+    height: 300px;
+    margin: 150px 20px 20px 30px;
+    text-align: justify;
+    font-size: small;
+
+    position: relative;
+
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background: snow;
+    border: 2px solid yellow;
+    color: white;
+    position: absolute;
+    top: -30px;
+    margin-left: 60px;
+
+    border-radius: 100%;
+}
+.square>h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.square>p{
+    text-align: center;
+}
