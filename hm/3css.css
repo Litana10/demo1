@@ -1,0 +1,108 @@
+.container{
+    background: white;
+    width: 1000px;
+    height: 500px;
+    border: gray solid 2px;
+    position:center;
+    margin: auto;
+    text-align: center;
+}
+.a{
+    background: burlywood;
+    width: 980px;
+    height: 100px;
+    border: gray solid 2px;
+    position: center;
+    margin: 10px 0px 0px 8px;
+}
+.b{
+background: burlywood;
+    width:700px ;
+    height: 365px;
+    border: gray solid 2px;
+    margin: 5px 5px 10px 8px;
+   padding-top: 150px;
+    box-sizing: border-box;
+
+}
+.c{
+    background: burlywood;
+    border: gray solid 2px;
+    width: 280px;
+    height: 365px;
+    margin: 5px 8px 10px 0px;
+    padding-top: 150px;
+    box-sizing: border-box;
+
+}
+.wrap{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+
+
+.wrapper{
+    background: bisque;
+    width:1000px;
+    height: 500px;
+    border: gray solid 2px;
+    position: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.wra{
+    background: snow;
+    border: gray solid 2px;
+    width: 980px;
+    height: 100px;
+    position: center;
+    margin: 10px 0px 0px 8px;
+    text-align: center;
+}
+.target{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.wrb{
+    background: snow;
+    width: 700px;
+    height: 150px;
+    border: gray solid 2px;
+    margin: 5px 5px 10px 5px;
+    text-align: center;
+    padding-top: 70px;
+    box-sizing: border-box;
+}
+.wrc {
+    background: snow;
+    border: gray solid 2px;
+    height: 220px;
+    width: 220px;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+.target2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin: 35px 0px 0px 0px;
+    box-sizing: border-box;
+}
+.wrf{
+    background: snow;
+    border:gray solid 2px ;
+    height: 370px;
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px 10px 5px;
+    text-align: center;
+    padding-top: 150px;
+    box-sizing: border-box;
+}
