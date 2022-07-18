@@ -1,12 +1,20 @@
-.container{
+
+.container {
     background: white;
     width: 1000px;
-    height: 500px;
+    min-height: 500px;
     border: gray solid 2px;
-    position:center;
+    position: center;
     margin: auto;
     text-align: center;
 }
+@media screen and (max-width:900px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+
 .a{
     background: burlywood;
     width: 980px;
@@ -15,9 +23,10 @@
     position: center;
     margin: 10px 0px 0px 8px;
 }
+
 .b{
 background: burlywood;
-    width:700px ;
+    min-width:700px ;
     height: 365px;
     border: gray solid 2px;
     margin: 5px 5px 10px 8px;
@@ -28,7 +37,7 @@ background: burlywood;
 .c{
     background: burlywood;
     border: gray solid 2px;
-    width: 280px;
+    min-width: 280px;
     height: 365px;
     margin: 5px 8px 10px 0px;
     padding-top: 150px;
@@ -44,6 +53,13 @@ background: burlywood;
 
 
 
+
+
+
+
+
+
+
 .wrapper{
     background: bisque;
     width:1000px;
@@ -54,6 +70,7 @@ background: burlywood;
     margin-top: 100px;
 
 }
+
 .wra{
     background: snow;
     border: gray solid 2px;
@@ -68,6 +85,7 @@ background: burlywood;
     flex-direction: row;
     justify-content:space-evenly;
 }
+
 .wrb{
     background: snow;
     width: 700px;
@@ -94,6 +112,7 @@ background: burlywood;
     margin: 35px 0px 0px 0px;
     box-sizing: border-box;
 }
+
 .wrf{
     background: snow;
     border:gray solid 2px ;
@@ -105,4 +124,9 @@ background: burlywood;
     text-align: center;
     padding-top: 150px;
     box-sizing: border-box;
+}
+@media screen and (max-width:900px) {
+    .container {
+        flex-direction: column;
+    }
 }
