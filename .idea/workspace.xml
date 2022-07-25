@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b5dda0c-f1ae-4f1b-995e-16ef91c64cef" name="Changes" comment="add index.html file">
-      <change afterPath="$PROJECT_DIR$/hm/normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm/java2107.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm/java2107.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm/3css.css" beforeDir="false" afterPath="$PROJECT_DIR$/hm/3css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm/cs2.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/hm/cs2.1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm/html31707.html" beforeDir="false" afterPath="$PROJECT_DIR$/hm/html31707.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm/ind.css" beforeDir="false" afterPath="$PROJECT_DIR$/hm/ind1407.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hm/index1407.html" afterDir="false" />
     </list>
@@ -74,7 +73,11 @@
       <updated>1657190209970</updated>
       <workItem from="1657190212194" duration="16662000" />
       <workItem from="1657260582189" duration="80203000" />
-      <workItem from="1658049441876" duration="35050000" />
+      <workItem from="1658049441876" duration="36938000" />
+      <workItem from="1658420809038" duration="374000" />
+      <workItem from="1658497654412" duration="240000" />
+      <workItem from="1658499040360" duration="478000" />
+      <workItem from="1658597001961" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="add index.html file">
       <created>1657443255380</created>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658079479221</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add index.html file">
+      <created>1658157120851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658157120851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
